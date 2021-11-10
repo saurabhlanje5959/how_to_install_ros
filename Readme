@@ -1,0 +1,5 @@
+How to install ROS
+1) Go to ros website and follow instructiions
+2) If any issue is there then try not to install any upgrades on the linux before ROS installation.
+3) Dont run commands like apt update and upgrade
+4) Install ubuntu without any downloadable upgrades
